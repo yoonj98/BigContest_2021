@@ -50,6 +50,27 @@
 ![image](https://user-images.githubusercontent.com/69336270/139192002-dc05e439-f9ec-4496-99f1-0d5cf7b24b2d.png)
 ![image](https://user-images.githubusercontent.com/69336270/139191917-75156565-4dea-4676-819d-aed409c92cb2.png)
 
+## Library
+---
+```python
+beautifulsoup4                4.6.3
+bs4                           0.0.1
+datawig                       0.2.0
+matplotlib                    3.2.2
+matplotlib-inline             0.1.2
+numpy                         1.14.6
+pandas                        0.25.3
+pip                           21.1.3
+pycaret                       2.3.3
+requests                      2.26.0
+scikit-learn                  0.22.1
+seaborn                       0.11.1
+shap                          0.39.0
+statsmodels                   0.10.2
+tqdm                          4.62.0
+urllib3                       1.24.3
+```
+
 ## Contributors
 ---
 <table>
