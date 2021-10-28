@@ -1,7 +1,7 @@
 # 빅콘테스트 2021 
 ---
-## 퓨처스리그 ECO제주 : 제주도 음식물 쓰레기양 예측을 통한 배출량 감소 방안 도출
-### 꿈은 없지만 놀고 싶어요
+### 퓨처스리그 ECO제주 : 제주도 음식물 쓰레기양 예측을 통한 배출량 감소 방안 도출
+#### 꿈은 없지만 놀고 싶어요
 ![image](https://user-images.githubusercontent.com/69336270/139187686-8a0e2ec2-a249-46b0-987d-ba4e3df3ad1b.png)
 
 ### Structure
@@ -36,13 +36,13 @@
      │            ...
      └───model_알수없음.pkl
 ```
-**main.py** : 전체 파일 실행 코드입니다. 
-**EDA.py** : 음식물 쓰레기 배출량에 대한 EDA 코드입니다. 
-**preprocess.py** : 데이터 전처리 코드입니다.
-**missing_datawig.py** : Datawig library를 사용해 전처리 데이터 중 결측치를 처리하는 코드입니다. 
-**correlation.py** : 모델에 사용할 변수에 대한 상관관계를 확인하는 코드입니다.
-**model.py** : AutoML인 Pycaret을 사용하여 지역별 음식물 쓰레기 배출량 예측 모델을 구축하는 코드입니다.
-**visualize.py** : Pycaret과 Shap를 사용하여 변수 중요도 및 특정 변수와 음식물 쓰레기 배출량과의 관계를 해석하는 코드입니다.
+**main.py** : 전체 파일 실행 코드입니다.    
+**EDA.py** : 음식물 쓰레기 배출량에 대한 EDA 코드입니다.   
+**preprocess.py** : 데이터 전처리 코드입니다.  
+**missing_datawig.py** : Datawig library를 사용해 전처리 데이터 중 결측치를 처리하는 코드입니다.   
+**correlation.py** : 모델에 사용할 변수에 대한 상관관계를 확인하는 코드입니다.  
+**model.py** : AutoML인 Pycaret을 사용하여 지역별 음식물 쓰레기 배출량 예측 모델을 구축하는 코드입니다.  
+**visualize.py** : Pycaret과 Shap를 사용하여 변수 중요도 및 특정 변수와 음식물 쓰레기 배출량과의 관계를 해석하는 코드입니다.  
 
 ### Results
 ---
