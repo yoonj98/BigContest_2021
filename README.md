@@ -54,9 +54,9 @@
 ---
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/yoonj98"><br /><b>이윤정</b></sub></td>
-    <td align="center"><a href="https://github.com/jiwon4178"><br /><b>박지원</b></sub></td>
-    <td align="center"><a href="https://github.com/jihyeon4028"><br /><b>박지현</b></sub></td>
-    <td align="center"><a href="https://github.com/didwldn3032"><br /><b>양지우</b></sub></td>
+    <td align="center"><a href="https://github.com/yoonj98"><b>이윤정</b></sub></td>
+    <td align="center"><a href="https://github.com/jiwon4178"><b>박지원</b></sub></td>
+    <td align="center"><a href="https://github.com/jihyeon4028"><b>박지현</b></sub></td>
+    <td align="center"><a href="https://github.com/didwldn3032"><b>양지우</b></sub></td>
 </table>
 
