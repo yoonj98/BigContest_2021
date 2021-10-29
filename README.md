@@ -30,12 +30,13 @@
 └── model
      ├───model.py
      ├───visualize.py
-     ├───compare_model_건입동.pkl
-     │             ...
-     ├───compare_model_알수없음.pkl
-     ├───model_건입동.pkl
-     │            ...
-     └───model_알수없음.pkl
+     └─── model
+           ├───compare_model_건입동.pkl
+           │             ...
+           ├───compare_model_알수없음.pkl
+           ├───model_건입동.pkl
+           │            ...
+           └───model_알수없음.pkl
 ```
 **main.py** : 전체 파일 실행 코드입니다.    
 **EDA.py** : 음식물 쓰레기 배출량에 대한 EDA 코드입니다.   
