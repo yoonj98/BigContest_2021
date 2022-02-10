@@ -1,7 +1,7 @@
 # 빅콘테스트 2021 
 ---
 ### 퓨처스리그 ECO제주 : 제주도 음식물 쓰레기양 예측을 통한 배출량 감소 방안 도출
-#### 꿈은 없지만 놀고 싶어요
+#### 꿈은 없지만 놀고 싶어요 / 본선 
 ![image](https://user-images.githubusercontent.com/69336270/139187686-8a0e2ec2-a249-46b0-987d-ba4e3df3ad1b.png)
 
 ## Structure
